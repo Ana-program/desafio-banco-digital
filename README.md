@@ -1,6 +1,6 @@
 ## Desafio Banco Digital
 
-Este é um desafio do projeto de um Banco Digital com Java e Programação Orientada a Objeto, que possui Conta Corrente, Conta Poupança e Clientes, mostrando as funcionalidades de um Banco digital. Este desafio foi proposto pelo professor Venilton Falvo Jr do Bootcamp Santander 2024 - Backend Java na plataforma da Dio.me
+Este é um desafio do projeto de um Banco Digital com Java e Programação Orientada a Objeto, que possui Conta Corrente, Conta Poupança e Clientes, mostrando as funcionalidades de um Banco digital. Este desafio foi proposto pelo Bootcamp Santander 2024 - Backend Java na plataforma da Dio.me
 
 ## Funcionalidades
 
